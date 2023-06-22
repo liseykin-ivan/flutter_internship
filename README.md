@@ -18,3 +18,8 @@ Email: <liseykin.ivan@gmail.com>
 
 - [Приложение погоды](001_weather_app.md)
 - ==Work in progress...==
+
+### Примеры приложений других интернов
+
+- <https://github.com/shuyukov/weather>
+- <https://github.com/VipUser73/weather_app>
